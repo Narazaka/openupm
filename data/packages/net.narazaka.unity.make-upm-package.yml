@@ -1,0 +1,17 @@
+name: net.narazaka.unity.make-upm-package
+displayName: MakeUPMPackage
+description: "Narazakaã\x81\x8Cå\x80\x8Bäººç\x94¨ã\x81«ä½\x9Cã\x81£ã\x81\x9FUPMã\x83\x91ã\x83\x83ã\x82±ã\x83¼ã\x82¸ã\x81®Gitã\x83ªã\x83\x9Dã\x82¸ã\x83\x88ã\x83ªã\x81¨ã\x81\x8Bã\x82\x92é\x9B\x91ã\x81«ä½\x9Cã\x82\x8Bã\x82\x84ã\x81¤"
+repoUrl: https://github.com/Narazaka/MakeUPMPackage
+parentRepoUrl: null
+licenseSpdxId: Zlib
+licenseName: zlib License
+image: ''
+topics:
+  - utilities
+  - version-control
+hunter: Narazaka
+gitTagPrefix: v
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1735977314049
